@@ -5,7 +5,7 @@ TO DO - extend explanation of project.
 
 ## Step by Step of Disassembly
 
-TO DO - Add each picture in chronological order with a preif explanation of what is happening.
+TO DO - Add each picture in chronological order with a brief explanation of what is happening.
 
 
 <img width="1926" height="717" alt="Demadistricts" src="https://github.com/user-attachments/assets/4b9b7ecc-31af-4563-9af5-6e7402e5d47e" />
