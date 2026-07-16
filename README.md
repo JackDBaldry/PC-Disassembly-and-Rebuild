@@ -1,7 +1,7 @@
 # PC Disassembly and Rebuild
 Edexcel iGCSE PC Disassembly and Rebuild Project
 
-This project followed the Cisco Networking Academy [![Computer Hardware Basics](https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US) course units: 
+This project followed the Cisco Networking Academy [[Computer Hardware Basics]](https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US) course units: 
 
 1.3. Computer Disassembly
 
