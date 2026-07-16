@@ -1,7 +1,15 @@
 # PC Disassembly and Rebuild
 Edexcel iGCSE PC Disassembly and Rebuild Project
 
-TO DO - extend explanation of project.
+This project followed the Cisco Networking Academy Computer Hardware Basics course units: 
+
+1.3. Computer Disassembly
+1.4. Open the Case and Connect the Power Supply
+1.5. Install Motherboard Components
+1.6. Install Drives and Adapter Cards
+1.7. Install Cables and Complete Assembly
+
+I disassembled and reassembled a desktop PC following the course instructions, noting the specific hardware components as I went and then investigated them individually.
 
 ## Step by Step of Disassembly
 
