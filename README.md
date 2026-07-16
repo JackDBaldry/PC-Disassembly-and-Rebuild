@@ -17,11 +17,15 @@ I disassembled and reassembled a desktop PC following the course instructions, n
 
 ## Step by Step of Disassembly
 
+Refer to the course, explain major steps taken, noting that my machine wasnt exact same as one in course so had to adapt to suit, risks we had to manage, key components that removed, anything else noteworthy can think of.
+
 TO DO - Add each picture in chronological order with a brief explanation of what is happening.
 
+Screw storage <img width="1926" height="717" alt="Demadistricts" src="https://github.com/user-attachments/assets/4b9b7ecc-31af-4563-9af5-6e7402e5d47e" />
 
-<img width="1926" height="717" alt="Demadistricts" src="https://github.com/user-attachments/assets/4b9b7ecc-31af-4563-9af5-6e7402e5d47e" />
+Hardware components
 
+Inside Computer
 
 <img width="1923" height="709" alt="Loopingvalidation" src="https://github.com/user-attachments/assets/40850fdc-4441-484d-b632-e70a5d6c78dd" />
 
@@ -38,6 +42,8 @@ TO DO - Add each picture of specific hardware components and then list their spe
 
 
 ## Reassembly Description
+
+Putting platter in without scratching it, screw lengths keeping seperate, re attatching all cables back and getting right ones in right thing, physical constrraints of space, remembering the sequence of parts going back in, oritnetation of the drives, remove thermal paste
 
 TO Do - Describe the reassembly process briefly.
 
