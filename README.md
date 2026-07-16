@@ -55,8 +55,8 @@ This project is licensed under the Apache License 2.0 – see the [LICENSE](LICE
 
 TO DO
 
-* Disassembly challenges - I had never had done a full PC disassembly before so I had to learn about managing things like electrostatic charge, care of delicate items like the platter, remembering the sequence items were removed for later reassembly, etc. 
+I had never had done a full PC disassembly before so I had to learn about managing things like electrostatic charge, care of delicate items like the platter, remembering the sequence items were removed for later reassembly, etc. 
   
-* Reassembly challenges - Some components were much more difficult to put back in the correct order so I had to refer to the pictures I had taken to ensure I had done it correctly. It was very satisfying when the fully reassembled machine ran well after I was done.
+Some components were much more difficult to put back in the correct order so I had to refer to the pictures I had taken to ensure I had done it correctly. It was very satisfying when the fully reassembled machine ran well after I was done.
   
-* What did you learn or find interesting.
+It was the first time I'd fully taken apart and reassembled a computer and I found it a very enjoyable experience and I enjoyed figuring out how all the components disassembled and reassembled. It also taught me a lot about how the computers parts worked together.
