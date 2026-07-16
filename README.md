@@ -55,8 +55,8 @@ This project is licensed under the Apache License 2.0 – see the [LICENSE](LICE
 
 TO DO
 
-* Disassembly challenges
+* Disassembly challenges - I had never had done a full PC disassembly before so I had to learn about managing things like electrostatic charge, care of delicate items like the platter, remembering the sequence items were removed for later reassembly, etc. 
   
-* Reassembly challenges
+* Reassembly challenges - Some components were much more difficult to put back in the correct order so I had to refer to the pictures I had taken to ensure I had done it correctly. It was very satisfying when the fully reassembled machine ran well after I was done.
   
 * What did you learn or find interesting.
