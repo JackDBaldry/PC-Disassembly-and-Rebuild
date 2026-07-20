@@ -17,17 +17,23 @@ I disassembled and reassembled a desktop PC following the course instructions, n
 
 ## Step by Step of Disassembly
 
-explain major steps taken, noting that my machine wasnt exact same as one in course so had to adapt to suit, risks we had to manage, key components that removed, anything else noteworthy can think of.
-
 Video 1.3.3 and 1.3.4 Lab manual which are both in the course and they show how to fully disassemble the computer and is what I used to help me know what order to take each part out of the computer.
 
-Here is the rough step by step process of how we took apart the computer: 1. We made sure the computer was fully unplugged and powered off, 2. We had to unscrew all the screws that were holding the side panel on so we could access all the internal parts of the computer, 3. We removed all the main major components which are the HDD, optical drive, power supply, heat sink, graphics card and RAM. This involved unplugging all data and power cables, looking if the parts were screwed in or had sliding mechanisms and then removing them depending on how they were mounted in the computer. We had to make sure to handle all the parts carefully so nothing got scratched or damamged in the process of taking it apart. We were also unable to follow the exact disassembly order that was shown in the course as our machine was different to the one they showed, so we had to adapt this section to make it work for us.
+Here is the rough step by step process of how we took apart the computer: 
 
-Screw storage - We made one of these as we went so it didn't get confusing which screw was for what part of the computer, making the reassembly much easier later on.
+1. We made sure the computer was fully unplugged and powered off
+
+2. We had to unscrew all the screws that were holding the side panel on so we could access all the internal parts of the computer
+
+3. We removed all the main major components which are the HDD, optical drive, power supply, heat sink, graphics card and RAM. This involved unplugging all data and power cables, looking if the parts were screwed in or had sliding mechanisms and then removing them depending on how they were mounted in the computer.
+
+We had to make sure to handle all the parts carefully so nothing got scratched or damaged in the process of taking it apart. We had to adapt the disassembly order that was shown in the course as our machine was different to the one they showed, so we had to adapt this section to make it work for us.
+
+Screw Storage - We made one of these as we went so it didn't get confusing which screw was for what part of the computer, making the reassembly much easier later on.
 
 <img width="1033" height="608" alt="Screw_Storage" src="https://github.com/user-attachments/assets/c92504b7-fd11-4a0c-951a-a47016289170" />
 
-Hardware components - This was taken once we had removed all the parts. 
+Hardware Components - This was taken once we had removed all the parts. 
 
 <img width="598" height="737" alt="Hardware_Components" src="https://github.com/user-attachments/assets/86cbea18-7956-48bd-9fb3-7b6e1d7ca5c9" />
 
