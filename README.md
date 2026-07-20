@@ -21,17 +21,17 @@ explain major steps taken, noting that my machine wasnt exact same as one in cou
 
 Video 1.3.3 in the course shows how to fully disassemble the computer and is what I used to help me know what order to take each part out of the computer.
 
-TO DO - Add each picture in chronological order with a brief explanation of what is happening.
-
-Screw storage. We made one of these as we went so it didn't get confusing which screw was for what part of the computer, making the reassembly much easier later on.
+Screw storage - We made one of these as we went so it didn't get confusing which screw was for what part of the computer, making the reassembly much easier later on.
 
 <img width="1033" height="608" alt="Screw_Storage" src="https://github.com/user-attachments/assets/c92504b7-fd11-4a0c-951a-a47016289170" />
 
-Hardware components. This was taken once we had removed all the parts 
+Hardware components - This was taken once we had removed all the parts. 
 
 <img width="598" height="737" alt="Hardware_Components" src="https://github.com/user-attachments/assets/86cbea18-7956-48bd-9fb3-7b6e1d7ca5c9" />
 
-Inside Computer <img width="798" height="999" alt="Inside_Computer" src="https://github.com/user-attachments/assets/059ee0ee-8a02-4422-a31e-90e02642dc4a" />
+Inside Computer - This was the inside of the computer once all the main components had been removed.
+
+<img width="798" height="999" alt="Inside_Computer" src="https://github.com/user-attachments/assets/059ee0ee-8a02-4422-a31e-90e02642dc4a" />
 
 ## Hardware Specifications
 
@@ -69,7 +69,7 @@ TO Do - Describe the reassembly process briefly.
 
 **Images of Process**
 
-[Images (raw images)](images)
+[Images (raw images)](Images)
 
 
 ## License
