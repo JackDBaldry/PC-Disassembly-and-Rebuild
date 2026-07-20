@@ -13,6 +13,8 @@ This project followed the Cisco Networking Academy [Computer Hardware Basics](ht
 
 1.7. Install Cables and Complete Assembly
 
+1.8.1. Lab - PC Assembly Manual
+
 I disassembled and reassembled a desktop PC following the course instructions, noting the specific hardware components as I went and then investigated them individually.
 
 ## Step by Step of Disassembly
