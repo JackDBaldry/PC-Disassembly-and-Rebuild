@@ -72,7 +72,7 @@ Solid Aluminium Polymer Capacitor. 034 SEPC 820 2.5: Solid Aluminum Polymer Capa
 
 ## Reassembly Description
 
-Sections 1.3-1.8.1 helped us reassemble the computer after we had taken it apart as it has videos and a Lab manual on how to reassemble the computer.
+Sections 1.4-1.8.1 helped us reassemble the computer after we had taken it apart as it has videos and a Lab manual on how to reassemble the computer.
 
 Since at this point we had already disassembled the computer, it made it easier to know how different components would mount back into the computer case and to known which direction they needed to be facing. etc. During this process, again we had to be careful not to scratch or damage any parts as we were placing them back inside the computer. As also shown above, we made a place for the differnet screws to go so we made sure each component was screwed back in with the correct screws. We also had to make note of what cables plugged into which slot and for which component. It was also more difficult to put the parts back into the computer in a lot of ways since the screw holes were often tricky to access and it was harder to screw into than to unscrew them. 
 
