@@ -19,13 +19,20 @@ I disassembled and reassembled a desktop PC following the course instructions, n
 
 Refer to the course, explain major steps taken, noting that my machine wasnt exact same as one in course so had to adapt to suit, risks we had to manage, key components that removed, anything else noteworthy can think of.
 
+Video  1.3.3 in the course shows how to fully disassemble the computer and is what I used to help me know what order to take each part out of the computer.
+
 TO DO - Add each picture in chronological order with a brief explanation of what is happening.
 
-Screw storage <img width="1926" height="717" alt="Demadistricts" src="https://github.com/user-attachments/assets/4b9b7ecc-31af-4563-9af5-6e7402e5d47e" />
+Screw storage. We made one of these as we went so it didn't get confusing which screw was for what part of the computer, making the reassembly much easier later on.
 
-Hardware components
+<img width="1033" height="608" alt="Screw_Storage" src="https://github.com/user-attachments/assets/c92504b7-fd11-4a0c-951a-a47016289170" />
 
-Inside Computer
+Hardware components. This was taken once we had removed all the parts 
+
+<img width="598" height="737" alt="Hardware_Components" src="https://github.com/user-attachments/assets/86cbea18-7956-48bd-9fb3-7b6e1d7ca5c9" />
+
+Inside Computer <img width="798" height="999" alt="Inside_Computer" src="https://github.com/user-attachments/assets/059ee0ee-8a02-4422-a31e-90e02642dc4a" />
+
 
 <img width="1923" height="709" alt="Loopingvalidation" src="https://github.com/user-attachments/assets/40850fdc-4441-484d-b632-e70a5d6c78dd" />
 
