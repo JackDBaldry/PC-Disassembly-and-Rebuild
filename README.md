@@ -59,7 +59,7 @@ Genuine Dell Internal 19-in-1 Media & Flash Card Reader. W816M: Internal 19-in-1
 
 SK Hynix 4GB DDR3 Desktop Memory RAM module. HMT351U6BFR8C-H9: 4GB DDR3 Desktop Memory Module (RAM). Double Data Rate (DDR3) Unbuffered Dual-Rank Volatile Memory. Temporarily holds active system data for high-speed access by the processor.
 
-<img width="519" height="774" alt="RAM" src="https://github.com/user-attachments/assets/d77bfbaa-87d2-4ecc-a958-b7c8fa05c358" />
+<img width="311" height="427" alt="RAM" src="https://github.com/user-attachments/assets/d77bfbaa-87d2-4ecc-a958-b7c8fa05c358" />
 
 Genuine Dell 255-Watt Internal Desktop Power Supply Unit (PSU). G238T: 255-Watt Switching Power Supply Unit (PSU). The main electrical distribution hub. Converts high-voltage AC wall power into regulated DC power for the system.
 
