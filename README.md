@@ -63,7 +63,7 @@ SK Hynix 4GB DDR3 Desktop Memory RAM module. HMT351U6BFR8C-H9: 4GB DDR3 Desktop 
 
 Genuine Dell 255-Watt Internal Desktop Power Supply Unit (PSU). G238T: 255-Watt Switching Power Supply Unit (PSU). The main electrical distribution hub. Converts high-voltage AC wall power into regulated DC power for the system.
 
-<img width="943" height="701" alt="Power_Supply" src="https://github.com/user-attachments/assets/30a23ca5-aa3d-4cca-bcd9-3524c6e645a1" />
+<img width="566" height="420" alt="Power_Supply" src="https://github.com/user-attachments/assets/30a23ca5-aa3d-4cca-bcd9-3524c6e645a1" />
 
 Solid Aluminium Polymer Capacitor. 034 SEPC 820 2.5: Solid Aluminum Polymer Capacitor. Found on the Motherboard Voltage Regulator Module (VRM) circuit. Filters and stabilizes clean electrical currents directly into the CPU.
 
