@@ -41,13 +41,13 @@ Hardware Components - This was taken once we had removed all the parts.
 
 Inside Computer - This was the inside of the computer once all the main components had been removed.
 
-<img width="798" height="999" alt="Inside_Computer" src="https://github.com/user-attachments/assets/059ee0ee-8a02-4422-a31e-90e02642dc4a" />
+<img width="399" height="500" alt="Inside_Computer" src="https://github.com/user-attachments/assets/059ee0ee-8a02-4422-a31e-90e02642dc4a" />
 
 ## Hardware Specifications
 
 Genuine Dell OptiPlex Desktop CPU Processor Cooling Heatsink and Fan Assembly. T091R: CPU Heatsink and Shrouded Fan Assembly. Thermal management unit. Conducts heat away from the processor core via a copper baseblock and dissipates it using active airflow.
 
-<img width="737" height="1048" alt="Heat_Sink" src="https://github.com/user-attachments/assets/69c06a1f-e8fb-4b60-b8f4-07d74622983d" />
+<img width="369" height="524" alt="Heat_Sink" src="https://github.com/user-attachments/assets/69c06a1f-e8fb-4b60-b8f4-07d74622983d" />
 
 Genuine Dell 500GB 3.5 Internal SATA Hard Disk Drive (HDD). H643R: 3.5-inch Internal SATA Hard Disk Drive (HDD). Mechanical, magnetic non-volatile primary storage. Houses the Operating System, local file systems, and software configurations.
 
