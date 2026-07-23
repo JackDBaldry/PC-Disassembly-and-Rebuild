@@ -55,7 +55,7 @@ Genuine Dell 500GB 3.5 Internal SATA Hard Disk Drive (HDD). H643R: 3.5-inch Inte
 
 Genuine Dell Internal 19-in-1 Media & Flash Card Reader. W816M: Internal 19-in-1 Media & Flash Card Reader. A front-panel peripheral expansion module. Allows the system to interface with various camera, mobile, and external flash storage cards.
 
-<img width="775" height="675" alt="Optical_Drive" src="https://github.com/user-attachments/assets/5337c909-8a98-4fb4-b73d-621490772177" />
+<img width="465" height="405" alt="Optical_Drive" src="https://github.com/user-attachments/assets/5337c909-8a98-4fb4-b73d-621490772177" />
 
 SK Hynix 4GB DDR3 Desktop Memory RAM module. HMT351U6BFR8C-H9: 4GB DDR3 Desktop Memory Module (RAM). Double Data Rate (DDR3) Unbuffered Dual-Rank Volatile Memory. Temporarily holds active system data for high-speed access by the processor.
 
