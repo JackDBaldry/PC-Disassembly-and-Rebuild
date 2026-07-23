@@ -51,23 +51,23 @@ Genuine Dell OptiPlex Desktop CPU Processor Cooling Heatsink and Fan Assembly. T
 
 Genuine Dell 500GB 3.5 Internal SATA Hard Disk Drive (HDD). H643R: 3.5-inch Internal SATA Hard Disk Drive (HDD). Mechanical, magnetic non-volatile primary storage. Houses the Operating System, local file systems, and software configurations.
 
-<img width="678" height="1116" alt="HDD_Storage" src="https://github.com/user-attachments/assets/7b8a75e2-01be-4b5d-afa8-7cdf2d188341" />
+<img width="339" height="558" alt="HDD_Storage" src="https://github.com/user-attachments/assets/7b8a75e2-01be-4b5d-afa8-7cdf2d188341" />
 
 Genuine Dell Internal 19-in-1 Media & Flash Card Reader. W816M: Internal 19-in-1 Media & Flash Card Reader. A front-panel peripheral expansion module. Allows the system to interface with various camera, mobile, and external flash storage cards.
 
-<img width="1549" height="1349" alt="Optical_Drive" src="https://github.com/user-attachments/assets/5337c909-8a98-4fb4-b73d-621490772177" />
+<img width="775" height="675" alt="Optical_Drive" src="https://github.com/user-attachments/assets/5337c909-8a98-4fb4-b73d-621490772177" />
 
 SK Hynix 4GB DDR3 Desktop Memory RAM module. HMT351U6BFR8C-H9: 4GB DDR3 Desktop Memory Module (RAM). Double Data Rate (DDR3) Unbuffered Dual-Rank Volatile Memory. Temporarily holds active system data for high-speed access by the processor.
 
-<img width="1037" height="1548" alt="RAM" src="https://github.com/user-attachments/assets/d77bfbaa-87d2-4ecc-a958-b7c8fa05c358" />
+<img width="519" height="774" alt="RAM" src="https://github.com/user-attachments/assets/d77bfbaa-87d2-4ecc-a958-b7c8fa05c358" />
 
 Genuine Dell 255-Watt Internal Desktop Power Supply Unit (PSU). G238T: 255-Watt Switching Power Supply Unit (PSU). The main electrical distribution hub. Converts high-voltage AC wall power into regulated DC power for the system.
 
-<img width="1885" height="1401" alt="Power_Supply" src="https://github.com/user-attachments/assets/30a23ca5-aa3d-4cca-bcd9-3524c6e645a1" />
+<img width="943" height="701" alt="Power_Supply" src="https://github.com/user-attachments/assets/30a23ca5-aa3d-4cca-bcd9-3524c6e645a1" />
 
 Solid Aluminium Polymer Capacitor. 034 SEPC 820 2.5: Solid Aluminum Polymer Capacitor. Found on the Motherboard Voltage Regulator Module (VRM) circuit. Filters and stabilizes clean electrical currents directly into the CPU.
 
-<img width="360" height="901" alt="Graphics_Card" src="https://github.com/user-attachments/assets/58203b3a-9d17-4958-9966-74e1fc382f1c" />
+<img width="180" height="451" alt="Graphics_Card" src="https://github.com/user-attachments/assets/58203b3a-9d17-4958-9966-74e1fc382f1c" />
 
 
 ## Reassembly Description
