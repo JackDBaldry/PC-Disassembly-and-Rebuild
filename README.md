@@ -33,11 +33,11 @@ We had to make sure to handle all the parts carefully so nothing got scratched o
 
 Screw Storage - We made one of these as we went so it didn't get confusing which screw was for what part of the computer, making the reassembly much easier later on.
 
-<img width="1033" height="608" alt="Screw_Storage" src="https://github.com/user-attachments/assets/c92504b7-fd11-4a0c-951a-a47016289170" />
+<img width="516" height="304" alt="Screw_Storage" src="https://github.com/user-attachments/assets/c92504b7-fd11-4a0c-951a-a47016289170" />
 
 Hardware Components - This was taken once we had removed all the parts. 
 
-<img width="598" height="737" alt="Hardware_Components" src="https://github.com/user-attachments/assets/86cbea18-7956-48bd-9fb3-7b6e1d7ca5c9" />
+<img width="299" height="369" alt="Hardware_Components" src="https://github.com/user-attachments/assets/86cbea18-7956-48bd-9fb3-7b6e1d7ca5c9" />
 
 Inside Computer - This was the inside of the computer once all the main components had been removed.
 
