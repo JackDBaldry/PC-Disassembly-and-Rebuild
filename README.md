@@ -84,7 +84,7 @@ Since at this point we had already disassembled the computer, it made it easier 
 
 ## Challenges and Reflections
 
-I had never done a full PC disassembly before so I had to learn about managing things like electrostatic charge, care of delicate items like the platter, remembering the sequence items were removed in for later reassembly, etc. 
+I had never done a full PC disassembly before so I had to learn about managing things like electrostatic charge, care of delicate items like the platter, remembering the sequence the items were removed in for later reassembly, etc. 
   
 Some components were much more difficult to put back in the correct order so I had to refer to the pictures I had taken to ensure I had done it correctly. It was very satisfying when the fully reassembled machine ran well after I was done.
 
