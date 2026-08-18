@@ -17,7 +17,7 @@ This project followed the Cisco Networking Academy [Computer Hardware Basics](ht
 
 I disassembled and reassembled a desktop PC following the course instructions, noting the specific hardware components as I went and then investigated them individually.
 
-## Step by Step of Disassembly
+## Step-by-Step Disassembly
 
 Video 1.3.3 and 1.3.4 Lab manual which are both in the course and they show how to fully disassemble the computer and is what I used to help me know what order to take each part out of the computer.
 
@@ -74,7 +74,7 @@ Solid Aluminium Polymer Capacitor. 034 SEPC 820 2.5: Solid Aluminum Polymer Capa
 
 Sections 1.4-1.8.1 helped us reassemble the computer after we had taken it apart as it has videos and a Lab manual on how to reassemble the computer.
 
-Since at this point we had already disassembled the computer, it made it easier to know how different components would mount back into the computer case and to known which direction they needed to be facing. etc. During this process, again we had to be careful not to scratch or damage any parts as we were placing them back inside the computer. As also shown above, we made a place for the differnet screws to go so we made sure each component was screwed back in with the correct screws. We also had to make note of what cables plugged into which slot and for which component. It was also more difficult to put the parts back into the computer in a lot of ways since the screw holes were often tricky to access and it was harder to screw into than to unscrew them. 
+Since at this point we had already disassembled the computer, it made it easier to know how different components would mount back into the computer case and to know which direction they needed to be facing. etc. During this process, again we had to be careful not to scratch or damage any parts as we were placing them back inside the computer. As also shown above, we made a place for the different screws to go so we made sure each component was screwed back in with the correct screws. We also had to make note of what cables plugged into which slot and for which component. It was also more difficult to put the parts back into the computer in a lot of ways since the screw holes were often tricky to access and it was harder to screw into than to unscrew them. 
 
 
 **Images of Process**
@@ -84,7 +84,7 @@ Since at this point we had already disassembled the computer, it made it easier 
 
 ## Challenges and Reflections
 
-I had never had done a full PC disassembly before so I had to learn about managing things like electrostatic charge, care of delicate items like the platter, remembering the sequence items were removed for later reassembly, etc. 
+I had never done a full PC disassembly before so I had to learn about managing things like electrostatic charge, care of delicate items like the platter, remembering the sequence items were removed for later reassembly, etc. 
   
 Some components were much more difficult to put back in the correct order so I had to refer to the pictures I had taken to ensure I had done it correctly. It was very satisfying when the fully reassembled machine ran well after I was done.
 
